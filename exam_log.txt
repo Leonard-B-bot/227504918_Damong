@@ -1,0 +1,623 @@
+   0 wsl --install
+   1 wsl
+   2 wsl -l
+   3 cat /etc/os-release
+   4 apk update
+   5 clear
+   6 add mysql
+   7 apk add mysql
+   8 apk add apache2
+   9 apk add mysql
+  10 apk --install mysql
+  11 apk update mysql
+  12 whoami
+  13 passwd
+  14 ifconfig
+  15 ipconfig
+  16 openssh
+  17 sshd
+  18 ipconfig
+  19 ifconfig
+  20 ifconfig -p 8022
+  21 ifconfig --help
+  22 neofetch
+  23 apl neofetch
+  24 apk neodetch
+  25 apk neofetch
+  26 apk install neofetch
+  27 update
+  28 upgrade
+  29 -ash upgrade
+  30 apk install php
+  31 apk -install php
+  32 man 8 apk
+  33 apk -install neofetch
+  34 apk -install g
+  35 apk -install gh
+  36 apk upgrade
+  37 opnssh
+  38 openssh
+  39 sshd
+  40 apk -install sshd
+  41 apk add opensshd
+  42 sshd
+  43 apk update
+  44 apk upgrade all
+  45 apk upgrade
+  46 ssh
+  47 sshd
+  48 openssh
+  49 apk add openssh
+  50 openssh
+  51 apk update
+  52 apk upgrade
+  53 openssh
+  54 apk add ssh
+  55 Bebot1029
+  56 apk add ssh
+  57 rc-update add sshd
+  58 apk add openssh
+  59 pkill sshd
+  60 sshd
+  61 rc-update add sshd
+  62 rc -update add sshd
+  63 rc add sshd
+  64 apk -update add sshd
+  65 apk status
+  66 apk -status
+  67 apk fix sshd
+  68 apk add sshd
+  69 opensshd
+  70 openssh
+  71 adduser -g "Leonard S. D"
+  72 adduser -g Leonard.D
+  73 adduser -g Loveless
+  74 clear
+  75 openssh
+  76 apk openssh
+  77 apk help
+  78 apk -help
+  79 apk info openssh
+  80 list -install
+  81 apk list
+  82 pkg list -install
+  83 apk list -installed
+  84 pkg list -installed
+  85 apn list -installed
+  86 apk list -installed
+  87 clear
+  88 apk help
+  89 apk
+  90 apk cache
+  91 apk list
+  92 apk
+  93 neofetch
+  94 apk add neofetch
+  95 ls
+  96 ssh
+  97 apk install apache
+  98 apk add apache
+  99 ls
+ 100 akp install apache
+ 101 apk install apache
+ 102 apd add apache
+ 103 intall apache
+ 104 lc
+ 105 dir
+ 106 clear
+ 107 apk install apache
+ 108 apk
+ 109 apk update
+ 110 apk list
+ 111 clear
+ 112 terminate
+ 113 apk -install apache
+ 114 apl install apache
+ 115 apk install apache2
+ 116 apk add apache2
+ 117 ls
+ 118 dir
+ 119 apk
+ 120 apkiat
+ 121 apk list
+ 122 apk update apache2
+ 123 ls
+ 124 list
+ 125 apk list
+ 126 apk running -list
+ 127 apk list help
+ 128 apk cache
+ 129 apk update apache2
+ 130 apk info
+ 131 apk add jdk
+ 132 apk add py3
+ 133 apk add python
+ 134 apk python3
+ 135 apk add python3
+ 136 apk add neofetch
+ 137 apk info
+ 138 git
+ 139 java
+ 140 ssh
+ 141 apache
+ 142 apk info git
+ 143 gh
+ 144 git
+ 145 apk add git-cla
+ 146 apk add github-cli
+ 147 apk info
+ 148 sah-keygen
+ 149 ssh-keygen
+ 150 passwd
+ 151 ifconfig
+ 152 ipconfig
+ 153 ip
+ 154 ip addr
+ 155 whoami
+ 156 apk autoclean
+ 157 apk add openjdk11
+ 158 apk add opendjk8
+ 159 apk add openjdk8
+ 160 apk
+ 161 sah
+ 162 ssh
+ 163 ip
+ 164 git auth login
+ 165 apk info git
+ 166 apk info github-cli
+ 167 gir add
+ 168 git add
+ 169 apk add ifconfig
+ 170 ifconfig
+ 171 ipconfig
+ 172 ifconf
+ 173 ifconfig
+ 174 init
+ 175 wal
+ 176 wsl
+ 177 ssh help
+ 178 ssh
+ 179 ip
+ 180 ip show
+ 181 ip addr show
+ 182 ip route list
+ 183 cd
+ 184 cd pwd
+ 185 pwd
+ 186 ipconf
+ 187 ipconfig
+ 188 ifconfig
+ 189 apache ctl
+ 190 open apache
+ 191 open apache2
+ 192 start
+ 193 help
+ 194 command
+ 195 command help
+ 196 .
+ 197 -help
+ 198 help -help
+ 199 true
+ 200 true help
+ 201 apachectl
+ 202 apache help
+ 203 apache
+ 204 apache2
+ 205 git
+ 206 open git
+ 207 apk git
+ 208 apk --help
+ 209 apk verify git
+ 210 man 8 apk
+ 211 apk info
+ 212 apk verify mysql
+ 213 mysql
+ 214 apk update
+ 215 :/usr/sbin/sshd
+ 216 apk add openssh
+ 217 /usr
+ 218 /sbin
+ 219 /pwd
+ 220 ssh root@192.168.68.113
+ 221 ps aux
+ 222 ps aux | grep sshd
+ 223 /usr/sbin/sshd
+ 224 apk update
+ 225 /usr
+ 226 ssh-keygen -t rsa -f /etc/ssh/ssh_host_rsa_key -N ""
+ 227 ssh-keygen -t ecdsa -f /etc/ssh/ssh_host_ecdsa_key -N ""
+ 228 ssh-keygen -t ed25519 -f /etc/ssh/ssh_host_ed25519_key -N ""
+ 229 ls /etc/ssh/
+ 230 chmod 600 /etc/ssh/ssh_host_*
+ 231 pkill sshd
+ 232 /usr/sbin/sshd
+ 233 ps aux | grep sshd
+ 234 ssh root@192.168.68.113
+ 235 netstat -tuln | grep :22
+ 236 ss -tuln
+ 237 apk add iproute2
+ 238 apk add lsof
+ 239 lsof -i :22
+ 240 /var/log/secure
+ 241 /var/log/auth.lig
+ 242 /var/log/auth.log
+ 243 laof
+ 244 lsof
+ 245 vi /etc/ssh/sshd_config
+ 246 java
+ 247 apk add java
+ 248 history
+ 249 apk add nano
+ 250 mkdir test
+ 251 cs test
+ 252 cd test
+ 253 git init
+ 254 git remote add origin https://github.com/Loveless_B_bot/227504918_Damong
+ 255 echo phonetxt.txt
+ 256 git add phonetxt.txt
+ 257 ls
+ 258 dir
+ 259 echo 1txt.txt
+ 260 nano 1txt.txt
+ 261 sudo nano 1txt.txt
+ 262 apk add nano
+ 263 sudo nano 1txt.txt
+ 264 git status
+ 265 dir
+ 266 ls
+ 267 cd test
+ 268 dir
+ 269 git status
+ 270 git add txt.txt > "hello"
+ 271 nano txt.php
+ 272 nano 1txt.txt
+ 273 git status
+ 274 git add 1txt.txt
+ 275 git status
+ 276 git commit -m "added 1txt.txt through iSH"
+ 277 git config --global user.emal lsd4918@students.uc-bcf.edu.ph
+ 278 git config --global user.email lsd4918@students.uc-bcf.edu.ph
+ 279 git config --global user.name Loveless-B-bot
+ 280 git commit -m "added 1txt.txt through iSH"
+ 281 git push
+ 282 git push -u origin master
+ 283 history
+ 284 ssh-keygen
+ 285 cat
+ 286 git push -u origin master
+ 287 l
+ 288 git push -u origin master
+ 289 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong
+ 290 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong.git
+ 291 git push -u origin master
+ 292 history
+ 293 git remote remove https://github.com/Loveless_B_bot/227504918_Damong
+ 294 git remote remove origin https://github.com/Loveless_B_bot/227504918_Damong
+ 295 git remote -v
+ 296 git remote remove origin
+ 297 git remote -v
+ 298 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong
+ 299 git remote -v
+ 300 git push
+ 301 git push -u origin master
+ 302 git remote remove origin
+ 303 git remote -v
+ 304 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong.git
+ 305 git push
+ 306 git push --set-upstream origin master
+ 307 git credential-cache exit
+ 308 ssh-keygen -t rsa -b 4096 -C lsd4918@students.uc-bcf.edu.ph
+ 309 git remote set-url origin git@github.com:Loveless-B-bot/227504918_Damong.git
+ 310 git push -u origin master
+ 311 git push
+ 312 gir push -u origin master
+ 313 git remote -v
+ 314 git remote remove origin
+ 315 git remote set-url origin git@github.com:Loveless-B-bot/227504918_Damong
+ 316 git remote set-url origin git@github.com:Loveless-B-bot/227504918_Damong.git
+ 317 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong.git
+ 318 git remote -v
+ 319 git remote remove origin
+ 320 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong.git
+ 321 git remote -v
+ 322 git push -u origin master
+ 323 git remote remove origin
+ 324 git remote add origin https://github.com/Loveless-B-bot/227504918_Damong
+ 325 git remote -v
+ 326 git push -u origin master
+ 327 git remote remove origin
+ 328 git remote add origin https://github.com/Leonard-B-bot/227504918_Damong.git
+ 329 git remote -v
+ 330 git push -u origin master
+ 331 git fetch -u origin master
+ 332 git push -u origin master
+ 333 git status
+ 334 git add hello
+ 335 git commit -m "added hello"
+ 336 git push 
+ 337 git push -u origin master
+ 338 git push -u origin main
+ 339 git push -u origin master
+ 340 git status
+ 341 branch
+ 342 git branch
+ 343 git status
+ 344 git pull
+ 345 git-pull(1)
+ 346 git branch list
+ 347 git list branch
+ 348 git rev-list
+ 349 git bisect
+ 350 git clone
+ 351 ls
+ 352 git clone https://github.com/Leonard-B-bot/227504918_Damong.git
+ 353 ls
+ 354 cd "227504918_Damong"
+ 355 ls
+ 356 gir status
+ 357 git status
+ 358 mkdir linux_practice
+ 359 ls
+ 360 cd linux_practice
+ 361 nano notes.txt
+ 362 ls
+ 363 ~/yourrepo
+ 364 git status
+ 365 git add ./
+ 366 git atatus
+ 367 git status
+ 368 git add notes.txt
+ 369 git commit -m "created notes.txt, with "hello, linux; inside"
+ 370 git commit -m "added notes.txt"
+ 371 gir commit -u origin master
+ 372 git commit -u origin master
+ 373 git commit -u origin main
+ 374 git remote -v
+ 375 git remote remove 
+ 376 git remote remove main
+ 377 git remote remove origin
+ 378 git remote remove master
+ 379 history
+ 380 git remote -v
+ 381 git remote add origin https://github.com/Leonard-B-bot/227504918_Damong.git
+ 382 git pull
+ 383 git status
+ 384 ls
+ 385 mkdir subdir
+ 386 cd subdir
+ 387 git starua
+ 388 git status
+ 389 cd..
+ 390 ren subdir practice_subdir
+ 391 ls
+ 392 cd..
+ 393 ls
+ 394 cd ..
+ 395 ls
+ 396 nano notes.txt
+ 397 ls
+ 398 nano notes.txt
+ 399 Nano notes.txt
+ 400 nano notes.txt
+ 401 del notes.txt
+ 402 show notes.txt
+ 403 delete notes.txt
+ 404 remove notes.txt
+ 405 Del notes.txt
+ 406 ls
+ 407 head
+ 408 cat
+ 409 echo > blah.txt
+ 410 ls
+ 411 echo blah.txt >> "this is a practical exam"
+ 412 ls
+ 413 move -help
+ 414 mive help
+ 415 move 
+ 416 move notes.txt /linux_practice
+ 417 move notes.txt 
+ 418 sudo move notes.txt
+ 419 sudo move notes.txt ls
+ 420 la
+ 421 ls
+ 422 sudo move notes.txt subdir
+ 423 sudo move notes.txt /subdir
+ 424 move --help
+ 425 -help
+ 426 ls
+ 427 notes.txt
+ 428 notes.txt move
+ 429 notes.txt move subdir
+ 430 notes.txt move /subdir
+ 431 notes.txt move /subdirhelp
+ 432 help
+ 433 apk add move
+ 434 copy
+ 435 copy notes.txt
+ 436 ls
+ 437 git status
+ 438 git add *.
+ 439 git add blah.txt
+ 440 git add notes.txt
+ 441 git add this is a practical exam
+ 442 git add "this is a practical exam"
+ 443 git status
+ 444 git add notes.txt
+ 445 git status
+ 446 git add "notes.txt"
+ 447 git status
+ 448 git push
+ 449 git commit -m "committed various files"
+ 450 git push -u origin master
+ 451 mv notes.txt
+ 452 mv notes.txt /practical_subdir
+ 453 la
+ 454 ls
+ 455 cd subdir
+ 456 ls
+ 457 cd ..
+ 458 ls
+ 459 mv
+ 460 mv notes.txt subdir
+ 461 rm notes.txt
+ 462 la
+ 463 ls
+ 464 rm notes.txt
+ 465 cd
+ 466 pwd
+ 467 dir
+ 468 ls
+ 469 cd test
+ 470 ls
+ 471 cd 227504918_Damong
+ 472 ls
+ 473 cd linux_practice
+ 474 ls
+ 475 mv notes.txt /test/227504918_Damong/linux_practice/subdir
+ 476 ls
+ 477 mv notes.txt subdir
+ 478 tree
+ 479 la
+ 480 ls
+ 481 mv blah.txt /subdir
+ 482 ls
+ 483 cd subdir
+ 484 ls
+ 485 la
+ 486 ls
+ 487 cd..
+ 488 cd ..
+ 489 ls
+ 490 audo nano notes.txt
+ 491 sudo nano notes.txt
+ 492 nano notes.txt
+ 493 ls
+ 494 git status
+ 495 echo > notes.txt > "this is a practical exam"
+ 496 ls
+ 497 echo > "Hello world,  this is a practical exam"
+ 498 echo > "Hello world,  this is a practical exam" > newnotes.txt
+ 499 ls
+ 500 move newnotes.txt
+ 501 newnotes.txt move 
+ 502 mv newnotes.txt /subdir
+ 503 gir status
+ 504 cd subdir
+ 505 git status
+ 506 ls
+ 507 cd ..
+ 508 echo > "this is a practical exam" > newnotes2.txt
+ 509 ls
+ 510 mv newnotes2.txt /test/227504918_Damong/linux_practice/subdir
+ 511 ls
+ 512 rm "this is a practical exam"
+ 513 history -c
+ 514 ld
+ 515 ls
+ 516 rm notes.txt
+ 517 ls
+ 518 rm notes.txt
+ 519 attrib notes.txt
+ 520 notes.txt attrib
+ 521 echo > "This is another example for the finals example because im bad at this." > finalsnote.txt
+ 522 ls
+ 523 rm newnotes2.txt
+ 524 ls
+ 525 la
+ 526 ls
+ 527 git status
+ 528 echo "Hello, sorry for the amount of attempts" >> finalfinalnotes.txt
+ 529 ls
+ 530 echo "this is a practical exam" >> finalfinalnotes.txt
+ 531 ls
+ 532 head
+ 533 finalfinalnotes.txt head
+ 534 head finalfinalnotes.txt
+ 535 git add finalfinalnotes.txt
+ 536 git commit -m "Finally done step 4, properly"
+ 537 git push -u origin master
+ 538 mv /test/227504918_Damong/linux_practice/finalfinalnotes.txt /test/227504_Damong/linux_practice/subdir/
+ 539 ls
+ 540 mv /test/227504918_Damong/linux_practice/"finalfinalnotes.txt"  /test/227504_Damong/linux_practice/subdir/
+ 541 mv /test/227504918_Damong/linux_practice/"finalfinalnotes.txt"  /test/227504_Damong/linux_practice/subdir
+ 542 mv /test/227504918_Damong/linux_practice/"finalfinalnotes.txt"  /test/227504918_Damong/linux_practice/subdir
+ 543 mv /test/227504918_Damong/linux_practice/finalfinalnotes.txt  /test/227504918_Damong/linux_practice/subdir
+ 544 mv /test/227504918_Damong/linux_practice/finalfinalnotes.txt /test/227504918_Damong/linux_practice/subdir/
+ 545 ls /test/227504918_Damong/linux_practice/finalfinalnotes.txt
+ 546 ls /test
+ 547 ls /test/227504918_Damong
+ 548 sudo ls -ld /test /test/227504918_Damong/linux_practice
+ 549 ls -ld /test
+ 550 find /test
+ 551 ls
+ 552 pwd
+ 553 ls
+ 554 mv /root/test/227504918_Damong/linux_practice/finalfinalnotes.txt /root/test/227504918_Damong/linux_practice/subdir
+ 555 ls
+ 556 cd subdir
+ 557 ls
+ 558 gitnstatus
+ 559 cd ..
+ 560 git status
+ 561 ls
+ 562 mv subdir practice_subdir
+ 563 la
+ 564 ls
+ 565 ccd practice_subdir
+ 566 cd practice_subdir
+ 567 cp /root/test/227504918_Damong/linux_practice/practice_subdir/finalfinalnotes.txt /root/test/227504918_Damong/linux_practice/
+ 568 ls
+ 569 cd ..
+ 570 ls
+ 571 git status
+ 572 git add practice_subdir/
+ 573 git commit -m "renamed subdir to practice_subdir"
+ 574 git push -u origin master
+ 575 date
+ 576 uptime
+ 577 du -sh /home
+ 578 ssh -v
+ 579 ssh -V
+ 580 mysql --version
+ 581 mysql -V
+ 582 mysql -v
+ 583 php -v
+ 584 sudo apt php -v
+ 585 apache2 -v
+ 586 java -version
+ 587 apk info | grep mysql
+ 588 apk info | grep mariadb
+ 589 mysql --version
+ 590 apl info java
+ 591 apk info | grep java
+ 592 apk info | grep php
+ 593 apk info | grep apache2
+ 594 apk info | grep python2
+ 595 git checkout -b finalexam
+ 596 history > exam_log.txt
+ 597  git add . exam_log.txt
+ 598 git commit -m "Added exam_log.txt with command history"
+ 599 git push origin finalexam
+ 600 branch
+ 601 git branch
+ 602 history
+ 603 git  log -p --since ="2024-08-07"
+ 604 git  log -p --since ="2024-08-06"
+ 605 hiatory
+ 606 history
+ 607 git checkout -b finalexam
+ 608 history > exam_log.txt
+ 609 git add . exam_log.text
+ 610 git checkout -b finalexam2
+ 611 history > exam_log.txt
+ 612 git add . exam_log.txt
+ 613 git commit -m "added exam_log.txt with command history"
+ 614 git push origin finalexam2
+ 615 cd ..
+ 616 git checkout finalexam
+ 617 git log -p--since='2024-08-08' --until='2024-08-10' --date=short exam_log.txt --reverse -n 1
+ 618 git log -p--since='2024-08-08'clr
+ 619 git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+ 620 git check -b finalexam
+ 621 git checkout -b finalexam
+ 622 history > exam_log.txt
