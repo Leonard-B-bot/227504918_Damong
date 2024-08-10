@@ -1,0 +1,88 @@
+commit c4607358e498703217fb6805407450c3669425f5 (H
+EAD -> finalexam, origin/finalexam)
+Author: Loveless-B-bot <lsd4918@students.uc-bcf.ed
+u.ph>
+Date:   Fri Aug 9 10:11:21 2024 +0000
+
+    Added exam_log.txt with command history
+
+diff --git a/linux_practice/Hello world,  this is 
+a practical exam b/linux_practice/Hello world,  th
+is is a practical exam
+new file mode 100644
+index 0000000..e69de29
+diff --git a/linux_practice/This is another exampl
+e for the finals example because im bad at this. b
+/linux_practice/This is another example for the fi
+nals example because im bad at this.
+new file mode 100644
+index 0000000..e69de29
+diff --git a/linux_practice/exam_log.txt b/linux_p
+ractice/exam_log.txt
+new file mode 100644
+index 0000000..9ce2257
+--- /dev/null
++++ b/linux_practice/exam_log.txt
+@@ -0,0 +1,597 @@
++   0 wsl --install
++   1 wsl
++   2 wsl -l
++   3 cat /etc/os-release
++   4 apk update
++   5 clear
++   6 add mysql
++   7 apk add mysql
++   8 apk add apache2
++   9 apk add mysql
++  10 apk --install mysql
++  11 apk update mysql
++  12 whoami
++  13 passwd
++  14 ifconfig
++  15 ipconfig
++  16 openssh
++  17 sshd
++  18 ipconfig
++  19 ifconfig
++  20 ifconfig -p 8022
++  21 ifconfig --help
++  22 neofetch
++  23 apl neofetch
++  24 apk neodetch
++  25 apk neofetch
++  26 apk install neofetch
++  27 update
++  28 upgrade
++  29 -ash upgrade
++  30 apk install php
++  31 apk -install php
++  32 man 8 apk
++  33 apk -install neofetch
++  34 apk -install g
++  35 apk -install gh
++  36 apk upgrade
++  37 opnssh
++  38 openssh
++  39 sshd
++  40 apk -install sshd
++  41 apk add opensshd
++  42 sshd
++  43 apk update
++  44 apk upgrade all
++  45 apk upgrade
++  46 ssh
++  47 sshd
++  48 openssh
++  49 apk add openssh
++  50 openssh
++  51 apk update
++  52 apk upgrade
++  53 openssh
++  54 apk add ssh
++  55 Bebot1029
++  56 apk add ssh
++  57 rc-update add sshd
++  58 apk add openssh
++  59 pkill sshd
++  60 sshd
++  61 rc-update add sshd
