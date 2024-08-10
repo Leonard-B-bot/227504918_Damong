@@ -595,3 +595,18 @@
  594 apk info | grep python2
  595 git checkout -b finalexam
  596 history > exam_log.txt
+ 597  git add . exam_log.txt
+ 598 git commit -m "Added exam_log.txt with command history"
+ 599 git push origin finalexam
+ 600 branch
+ 601 git branch
+ 602 history
+ 603 git  log -p --since ="2024-08-07"
+ 604 git  log -p --since ="2024-08-06"
+ 605 hiatory
+ 606 history
+ 607 git checkout -b finalexam
+ 608 history > exam_log.txt
+ 609 git add . exam_log.text
+ 610 git checkout -b finalexam2
+ 611 history > exam_log.txt
